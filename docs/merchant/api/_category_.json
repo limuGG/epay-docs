@@ -1,0 +1,11 @@
+{
+  "position": 4,
+  "label": "接口文档",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "api-root",
+  "link": {
+    "type": "generated-index",
+    "description": "epay商户接入api文档"
+  }
+}
